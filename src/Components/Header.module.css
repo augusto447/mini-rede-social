@@ -1,0 +1,14 @@
+.Header {
+  padding: 0.02rem 0;
+  background: #202024;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header img {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}

@@ -39,4 +39,4 @@ Feito como projeto de estudo e prática de **Front-end moderno e modular**.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/AugustoManuel/mini-rede-social.git
+https://github.com/augusto447/mini-rede-social.git

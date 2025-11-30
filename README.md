@@ -16,7 +16,7 @@ Feito como projeto de estudo e prática de **Front-end moderno e modular**.
 - Estado gerenciado com **React Hooks** (`useState`, `useEffect`)  
 - Dados persistentes usando `localStorage`  
 
----
+
 
 ## 🛠 Tecnologias & Bibliotecas
 
